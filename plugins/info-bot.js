@@ -4,7 +4,7 @@ handler.all = async function (m) {
 let botxd = `*🚀 Hola soy un bot*`
 let vn = [imagen1, imagen2, imagen3, imagen4].getRandom()
 let chat = global.db.data.chats[m.chat]
-const estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: {orderMessage: { itemCount : 2023, status: 1, surface : 1, message: 'Super WhatsApp Bot 🚀', orderTitle: 'Bang', thumbnail: fs.readFileSync('./storage/menus/Menu2.jpg'), sellerJid: '0@s.whatsapp.net'}}}
+const estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "51994156047-51994156047@g.us" } : {}) }, message: {orderMessage: { itemCount : 2023, status: 1, surface : 1, message: 'Super WhatsApp Bot 🚀', orderTitle: 'Bang', thumbnail: fs.readFileSync('./storage/menus/Menu2.jpg'), sellerJid: '0@s.whatsapp.net'}}}
 //const estiloaudio = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: {"audioMessage": { "mimetype":"audio/ogg; codecs=opus", "seconds": "99569", "ptt": "true"}}}  
 if (/^bot$/i.test(m.text) && !chat.isBanned) { 
 conn.sendPresenceUpdate('recording', m.chat)    
