@@ -81,9 +81,9 @@ let menu = `*❏──── 「 MENU 」 ────❏*
 *Fecha:* ${date}
 
 *I N F O*
-*Creador:* Azami
-*Número*: wa.me/59894808483
-*Bot oficial:* wa.me/5355772234
+*Creador Del Bot:* Charlie
+*Número De mi creador*: wa.me/51994156047
+*Para comprar el bot:* wa.me/51994156047
 *Tiempo activo:* ${uptime}
 *Usuarios:* ${rtotalreg}
 
