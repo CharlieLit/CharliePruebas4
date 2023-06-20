@@ -1,4 +1,4 @@
-# `CuriosityBot-MD` 
+# `Charlie-MD` 
 Bot el desarrollo
 
 <p align="center">
