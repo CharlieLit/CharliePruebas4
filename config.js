@@ -5,11 +5,11 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['59894808483', 'Azami 🥏', true],
-  ['5214531173598'], ['5214531106422'], ['593968585383'], ['5492266613038'], ['5492266466080']]  
+  ['51994156046', 'Charlie 🤖', true],
+  ['51994156047'], ['51994156047'], ['51994156047'], ['51994156047'], ['51994156047']]  
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.suittag = ['59894808483'] 
+global.suittag = ['51994156047'] 
 global.mods = [] 
 global.prems = []
 
@@ -83,25 +83,25 @@ global.imagen4 = fs.readFileSync('./storage/menus/Menu4.jpg')
 global.img = 'https://telegra.ph/file/76816166bd79aa848848d.jpg'
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'CuriosityBot-MD.js'
+global.packname = '𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙱𝙾𝚃.js'
 global.author = '@1.0.0'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '『 CuriosityBot-MD 』'
-global.azami = 'Azami ©'
-global.cb = 'CuriosityBot-MD'
+global.wm = '『 𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙱𝙾𝚃 』'
+global.azami = '𝙲𝙷𝙰𝚁𝙻𝙸𝙴'
+global.cb = '𝙲𝙷𝙰𝚁𝙻𝙸𝙴-𝙱𝙾𝚃'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 global.vs = '1.0.0'
-global.yt = 'https://www.youtube.com/@Azami_19'
-global.ig = 'https://instagram.com/azami.19'
-global.md = 'https://github.com/Azami19/CuriosityBot-MD1'
-global.nn = 'https://chat.whatsapp.com/LFQY7VlRIjtItIt5nKXHjc'
-global.nnn = 'https://chat.whatsapp.com/LFQY7VlRIjtItIt5nKXHjc'
+global.yt = 'https://www.youtube.com/@emersonchonlon'
+global.ig = 'https://instagram.com/emx._xit'
+global.md = 'https://github.com/CharlieLit/CharliePruebas4'
+global.nn = 'https://chat.whatsapp.com/F7fDuWot8ac87TntWOpLTu'
+global.nnn = 'https://chat.whatsapp.com/F7fDuWot8ac87TntWOpLTu'
 global.nna2 = 'LFQY7VlRIjtItIt5nKXHjc'
-global.paypal = 'https://paypal.me/Azami19'
+global.paypal = 'https://paypal.me/Emersonbot'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
